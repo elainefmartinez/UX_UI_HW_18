@@ -39,6 +39,28 @@ header{
     padding-top: 1rem;
     padding-left: 1rem;
 }
+
+
+a:link {
+    color: #FF6C4A;
+    background-color: transparent;
+
+  }
+  
+  a:visited {
+    color: #ff6c4a;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color:#FF6C4A;
+    text-decoration: underline;
+    
+  }
+
+
+
 .skillsHeader{
     justify-content: center;
     padding-bottom: 1rem;

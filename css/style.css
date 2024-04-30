@@ -20,6 +20,27 @@ header{
     
 }
 
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #ff6c4a;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:hover{
+    text-decoration: underline;
+    
+  }
+
+
+
+
 .content{
     /*background-color: aquamarine;*/
     height: auto;
