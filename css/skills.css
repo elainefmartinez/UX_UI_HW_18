@@ -84,8 +84,12 @@ a:link {
     border: 2px solid #FF6C4A;
     margin: 4px;
     padding: 1.5rem;
+    box-shadow:0 8px 10px 0 rgba(0, 0, 0, 0.2)
 
-   
+}
+
+.skillsCard p{
+    text-align: center;
 }
 
 .flexContainer{
@@ -168,13 +172,6 @@ button{
 }
 
 
-
-
-
-
-
-
-
 .footer{
     padding-top: 6rem;
     position: absolute;
@@ -195,5 +192,17 @@ button{
     margin:20px;
 }
 
+@media screen and (max-width: 600px) {
+    .myWork {
+        display: flex;
+        flex-direction: column;
+    }
+}
 
+@media screen and (max-width: 600px) {
+    .skillsGrid {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
 
