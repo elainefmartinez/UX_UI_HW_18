@@ -2,15 +2,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
+-Created Portfolio My Work & My Skills Pages using HTML and CSS.
+
  
-
-
 ---
 ## Contents
 - [Description](#description)
 - [Installation](#installation)
 - [License](#license)
-
 
 
 
