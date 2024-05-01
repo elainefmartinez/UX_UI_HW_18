@@ -20,8 +20,10 @@ NA
 ---
 
 ## Screenshot:
+![SkillsPage](https://github.com/elainefmartinez/UX_UI_HW_18/assets/85318206/3e609013-7d71-450b-b2d4-11d94824d1a3)
 
 
+![WorkPage](https://github.com/elainefmartinez/UX_UI_HW_18/assets/85318206/b481212d-8480-46c8-b462-678c43c5680c)
 
 
 
